@@ -42,6 +42,7 @@ namespace ClockPro
         public string GetTime()
         {
             return $"{hours.GetCount():00}:{minutes.GetCount():00}:{seconds.GetCount():00}";
+             return $"{hours.GetCount():00}:{minutes.GetCount():00}:{seconds.GetCount():00}";
         }
 
         public void Reset()
