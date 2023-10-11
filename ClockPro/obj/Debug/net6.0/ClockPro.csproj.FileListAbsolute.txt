@@ -1,0 +1,14 @@
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\bin\Debug\net6.0\ClockPro.exe
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\bin\Debug\net6.0\ClockPro.deps.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\bin\Debug\net6.0\ClockPro.runtimeconfig.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\bin\Debug\net6.0\ClockPro.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\bin\Debug\net6.0\ClockPro.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ClockPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ClockPro.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ClockPro.AssemblyInfo.cs
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ClockPro.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ClockPro.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\refint\ClockPro.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ClockPro.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ClockPro.genruntimeconfig.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.1P\ClockPro\ClockPro\obj\Debug\net6.0\ref\ClockPro.dll
